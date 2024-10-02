@@ -48,7 +48,7 @@ import 'package:substring_highlight/substring_highlight.dart';
   )
 ```
 ### Output:
-![Screenshot](example.png)
+![Screenshot](./screenshots/example.png)
 
 
 
@@ -79,4 +79,4 @@ import 'package:substring_highlight/substring_highlight.dart';
   )
 ```
 ### Output:
-![Screenshot](example2.png)
+![Screenshot](./screenshots/example2.png)
